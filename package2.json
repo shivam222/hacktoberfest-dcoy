@@ -1,0 +1,16 @@
+  "dependencies": {
+    "chai": "^3.5.0",
+    "colors": "1.1.2",
+    "mocha": "^3.0.2",
+    "mocha-data-driven": "^1.0.1",
+    "mochawesome": "^1.5.0",
+    "prettyjson": "^1.2.1",
+    "string-template": "0.2.0",
+    "superagent": "3.8.3",
+    "superagent-retry-delay": "2.1.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "json-query": "^2.2.2",
+    "merge-json": "0.1.0-b.3"
+  }
